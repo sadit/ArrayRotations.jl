@@ -1,5 +1,5 @@
-using Rotations1
-using Rotations1: _copy!, _left_shift!, _right_shift!, _interchange_left_large!, _interchange_right_large!
+using ArrayRotations
+using ArrayRotations: _copy!, _left_shift!, _right_shift!, _interchange_left_large!, _interchange_right_large!
 using Test
 
 @testset "_copy!" begin

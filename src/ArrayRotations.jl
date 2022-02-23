@@ -1,4 +1,4 @@
-module Rotations1
+module ArrayRotations
 
 include("utils.jl")
 include("auxrot.jl")
